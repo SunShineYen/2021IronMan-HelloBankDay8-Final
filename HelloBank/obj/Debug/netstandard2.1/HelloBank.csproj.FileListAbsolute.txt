@@ -1,0 +1,9 @@
+/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBank/bin/Debug/netstandard2.1/HelloBank.deps.json
+/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBank/bin/Debug/netstandard2.1/HelloBank.dll
+/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBank/bin/Debug/netstandard2.1/HelloBank.pdb
+/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBank/obj/Debug/netstandard2.1/HelloBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBank/obj/Debug/netstandard2.1/HelloBank.AssemblyInfoInputs.cache
+/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBank/obj/Debug/netstandard2.1/HelloBank.AssemblyInfo.cs
+/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBank/obj/Debug/netstandard2.1/HelloBank.csproj.CoreCompileInputs.cache
+/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBank/obj/Debug/netstandard2.1/HelloBank.dll
+/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBank/obj/Debug/netstandard2.1/HelloBank.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloBank", "HelloBank\HelloBank.csproj", "{B34E43FE-1942-4715-9AAB-DB4A2CB7E3AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloBankTest", "HelloBankTest\HelloBankTest.csproj", "{C94A12F3-60D8-44E7-8380-8222A96843CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B34E43FE-1942-4715-9AAB-DB4A2CB7E3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34E43FE-1942-4715-9AAB-DB4A2CB7E3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34E43FE-1942-4715-9AAB-DB4A2CB7E3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34E43FE-1942-4715-9AAB-DB4A2CB7E3AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94A12F3-60D8-44E7-8380-8222A96843CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94A12F3-60D8-44E7-8380-8222A96843CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94A12F3-60D8-44E7-8380-8222A96843CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94A12F3-60D8-44E7-8380-8222A96843CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCFC25E5-9231-4CC3-8926-B36FFDB45C52}
+	EndGlobalSection
+EndGlobal

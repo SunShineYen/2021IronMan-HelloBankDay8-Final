@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBankTest/HelloBankTest.csproj": {}
+  },
+  "projects": {
+    "/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBank/HelloBank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBank/HelloBank.csproj",
+        "projectName": "HelloBank",
+        "projectPath": "/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBank/HelloBank.csproj",
+        "packagesPath": "/Users/sunshineyen/.nuget/packages/",
+        "outputPath": "/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBank/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sunshineyen/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBankTest/HelloBankTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBankTest/HelloBankTest.csproj",
+        "projectName": "HelloBankTest",
+        "projectPath": "/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBankTest/HelloBankTest.csproj",
+        "packagesPath": "/Users/sunshineyen/.nuget/packages/",
+        "outputPath": "/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBankTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sunshineyen/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBank/HelloBank.csproj": {
+                "projectPath": "/Users/sunshineyen/Desktop/鐵人三十/HelloBankDay8-Final/HelloBank/HelloBank/HelloBank.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
